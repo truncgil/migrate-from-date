@@ -3,7 +3,7 @@
         'name' => 'truncgil/migrate-from-date',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '8d0d532be98a7f9d22eb621005cbed39578505a8',
+        'reference' => '563a262ce5befaec728ec3fb544ebfab8e51c469',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -169,7 +169,7 @@
         'truncgil/migrate-from-date' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '8d0d532be98a7f9d22eb621005cbed39578505a8',
+            'reference' => '563a262ce5befaec728ec3fb544ebfab8e51c469',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
