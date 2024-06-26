@@ -2,6 +2,7 @@
     "name": "truncgil/migrate-from-date",
     "description": "A Laravel package to migrate migrations from a specific date",
     "type": "library",
+    "license": "MIT",
     "require": {
         "php": "^7.3|^8.0",
         "illuminate/support": "^6.0|^7.0|^8.0|^9.0|^10.0"
